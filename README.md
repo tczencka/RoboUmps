@@ -1,6 +1,6 @@
 # RoboUmps
 
-This machine learning project explores a new problem facing baseball: how will electronic strike zones affect the game? Utilizing Principal Component Analysis and clustering methods of classification, <b>RoboZone</b> crafts a profile for the pitches who will be helped the most or hurt the most by the advent of robot umpires in Major League Baseball. Check out the juputer notebook to see the data science behind my conclusions. 
+This machine learning project explores a new problem facing baseball: how will electronic strike zones affect the game? Utilizing Principal Component Analysis and clustering methods of classification, <b>RoboUmps</b> crafts a profile for the pitches who will be helped the most or hurt the most by the advent of robot umpires in Major League Baseball. Check out the juputer notebook to see the data science behind my conclusions. 
 
 Using Statast pitch data from 2015 to 2019, I found four contributing factors that bias umpires toward a more liberal zone: <b>velocity, spin rate, role,</b> and <b>handedness</b>. For the full write-up, check out the official post for this project on <a href="https://www.mlbtraderumors.com/2020/04/which-pitchers-should-fear-robot-umpires.html">MLB Trade Rumors</a>, the industy's leading hot stove website.
 
