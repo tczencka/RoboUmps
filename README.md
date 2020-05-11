@@ -4,6 +4,6 @@ This machine learning project explores a new problem facing baseball: how will e
 
 Using Statast pitch data from 2015 to 2019, I found four contributing factors that bias umpires toward a more liberal zone: <b>velocity, spin rate, role,</b> and <b>handedness</b>. For the full write-up, check out the official post for this project on <a href="https://www.mlbtraderumors.com/2020/04/which-pitchers-should-fear-robot-umpires.html">MLB Trade Rumors</a>, the industy's leading hot stove website.
 
-- Who Got The Most Gifted Strike Calls In 2019? <a href="https://www.mlbtraderumors.com/2020/05/the-pitcher-to-receive-the-most-extra-strikes-in-2019-was.html">This post</a>, follows up on the original, using the database for umpire accuracy metrics to examine the the pitcher who receieved the most gifted strikes in 2019. Why did he get so many calls? And how did those extra strikes affect his performance? 
+- Who Got The Most Gifted Strike Calls In 2019? <a href="https://www.mlbtraderumors.com/2020/05/the-pitcher-to-receive-the-most-extra-strikes-in-2019-was.html">This post</a> follows up on the original using the database for umpire accuracy metrics to examine the the pitcher who receieved the most gifted strikes in 2019. Why did he get so many calls? And how did those extra strikes affect his performance? 
 
 - Finally, my MLBTR colleague Jeff Todd and I debate the coming robot revolution in baseball on <a href="https://www.youtube.com/watch?v=tJHb3DfJsxs ">MLBTR's YouTube Channel</a>. Check it out!
